@@ -1,0 +1,44 @@
+body{
+    font-family: happy monkey,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(221, 221, 8);
+}
+h2{
+    margin-top: -20px;
+    font-weight: bolder;
+}
+#pic{
+    border-radius: 50%;
+    border: 2px solid red;
+    width: 250px;
+}
+.header{
+    text-shadow: 0px 00px 1px rgb(38, 57, 73);
+}
+.age{
+    font-size: 38px;
+    text-shadow: 0 0 10px black;
+    color: blanchedalmond;
+    background-color: red;
+}
+.gift{
+    width: 400px;
+    border: 20px solid red;
+    border-radius: 10px;
+}
+.cover{
+    background-image: url(gift.webp);
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border: 6px solid red ;
+}
+.cover:hover{
+    background-image: url(o\ saahoo.webp);
+    background-size:cover;
+    width: 500px;
+   
+}

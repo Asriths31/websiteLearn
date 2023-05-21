@@ -1,0 +1,36 @@
+
+body{
+    
+    background:linear-gradient(red,orange);
+    text-align: center;
+    
+}
+.subscribe{
+    
+    background-color: red;
+    border-radius: 10%;
+    width: 100px;
+    color: white;
+}
+img{
+    width: 240px;
+    order: 0;
+    border: 2px solid beige;
+    border-radius: 4px;
+    
+}
+#img{
+    display: flex;
+    
+}
+
+#osc{
+    
+    width: 50px;
+
+    
+}
+#osc1{
+    
+    width: 50px;
+}

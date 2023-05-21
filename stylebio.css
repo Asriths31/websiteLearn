@@ -1,0 +1,23 @@
+.heading{
+ text-align: center;
+ 
+ 
+}
+body{
+    background-color:wheat;
+    font-weight: 1000;
+    
+}
+h2{
+
+}
+button{
+    display: block;
+    width: 23%;
+    margin: 0 auto;
+}
+img{
+    display: block;
+    width: auto;
+    margin: 0 auto;
+}

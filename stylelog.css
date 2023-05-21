@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+    background-image:none ;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 19px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 156px;
+}
+h1{
+    font-size: 20px;
+    margin-right: px;
+    color: rgb(150, 23, 23);
+}
+button{
+    display: block;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-top:4px ;
+    padding-left: 8px;
+    padding-bottom: 4px;
+    padding-right: 8px;
+    background-color: rgb(128, 49, 49);
+}input{
+    border-radius: 4px;
+}
